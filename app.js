@@ -59,15 +59,7 @@ io.on("connection",(uniquesocket)=>{
 
 });
 
-
-
-
-
-
-
-
-
-
+// Listen to port
 const port=process.env.PORT || 3000;
 server.listen(port,()=>{
     console.log("listening");
