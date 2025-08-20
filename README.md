@@ -1,6 +1,6 @@
 # ♟️ Multiplayer Chess Game
 
-A real-time, two-player chess game built using **Node.js**, **Express.js**, and **Socket.io**. This web-based application allows two users to play chess in real-time through a shared game room.
+A real-time, two-player chess game built using **Node.js**, **Express.js**, and **Socket.io**. This web-based application allows two users to play chess in real-time and also allows spectators.
 
 ---
 
