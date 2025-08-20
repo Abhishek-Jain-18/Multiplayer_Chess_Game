@@ -7,7 +7,7 @@ let sourceSquare=null;
 let playerRole=null;
 const renderBoard =()=>{
     boardElement.innerText="";
-    const board=chess.board();
+    const board=chess.board(); // make chess board
     board.forEach((row,rowindex)=>{
         row.forEach((square,squareindex)=>{
            
